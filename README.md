@@ -66,6 +66,7 @@ Jr. Red Team Analyst na **AuditSafe**, empresa de segurança ofensiva e complian
 ### `certifications // education`
 
 - 🎓 **Defesa Cibernética** — FIAP (em andamento)
+- 📜 **CompTIA Security+**
 - 📜 **ISC2 Certified in Cybersecurity (CC)**
 - 📜 **Red Hat RH124** — Red Hat System Administration I
 - 📜 **Red Hat RH134** — Red Hat System Administration II
