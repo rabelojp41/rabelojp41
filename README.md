@@ -10,27 +10,23 @@
 
 ---
 
-<img align="right" width="260" src="side-avatar.png" alt="avatar"/>
-
-Ooooi 👋 eu sou o **Rabelo**, da área de cyber! Curto muito **JJK** e **Chainsaw Man**, e boa parte dos designs por aqui (e do meu jeito de trabalhar, sinceramente) se inspira na **Reze** — direta, imprevisível e sempre um passo à frente.
+Ooooi 👋 eu sou o **Rabelo**, da área de cyber! Curto muito **JJK** e **Hunter x Hunter**, e sou apaixonado por **roxo**: é a cor que atravessa os meus designs e boa parte das minhas inspirações (dá pra perceber por aqui).
 
 ### `whoami`
 
-Jr. Red Team Analyst na **AuditSafe**, empresa de segurança ofensiva e compliance PCI DSS. Estudante de **Defesa Cibernética** na FIAP. Trabalho na linha de frente entre pentest, hardening e compliance — testando redes, aplicações e segmentações antes que alguém mal-intencionado o faça.
-
-<br clear="right"/>
+Assistente Jr. de Red Team na **AuditSafe** e estudante de **Defesa Cibernética** na FIAP. Meu foco agora é **Cyber Threat Intelligence**: uso OSINT no reconhecimento dos pentests, mapeio TTPs no MITRE ATT&CK e faço engenharia reversa de malware pra entender quem ataca, como e por quê. Tudo isso sem largar o red team e o PCI DSS do dia a dia.
 
 ```
-> foco atual:  Pentest interno/externo (PTES) · PCI DSS v4.0.1 · Web & API Testing
-> estudando:   Red Team avançado, automação ofensiva
-> stack diária: Kali · Burp Suite · OWASP ZAP · Nessus · Outpost24
+> foco atual:   Cyber Threat Intelligence · Pentest (PTES) · PCI DSS v4.0.1
+> estudando:    análise de malware, threat research, emulação de adversários
+> stack diária: Maltego · MITRE ATT&CK · Ghidra · FLOSS · YARA · Burp Suite · Nessus
 ```
 
 <div align="center">
 
-| 🎯 **Red Team** | 🛡️ **Compliance** | ⚙️ **Automação** |
+| 🕵️ **CTI & OSINT** | 🎯 **Red Team** | 🛡️ **PCI DSS** |
 |:---:|:---:|:---:|
-| Pentest interno/externo seguindo metodologia PTES, exploração de vulnerabilidades e testes de aplicações web/API. | Avaliações PCI DSS v4.0.1, testes de segmentação em AWS Security Groups e Azure NSGs, scans credenciados. | Scripts em Python pra geração de relatórios, automação de evidências e pipelines de documentação. |
+| OSINT com Maltego, mapeamento de TTPs no MITRE ATT&CK, engenharia reversa com Ghidra e FLOSS, regras YARA, Sigma e Snort. | Pentest interno/externo seguindo PTES, reconhecimento ativo e passivo, exploração e testes de aplicações web/API. | Avaliações PCI DSS v4.0.1, mapeamento de controles, coleta de evidências e testes de segmentação em AWS e Azure. |
 
 </div>
 
@@ -40,24 +36,52 @@ Jr. Red Team Analyst na **AuditSafe**, empresa de segurança ofensiva e complian
 
 <div align="center">
 
+**Threat Intelligence & OSINT**
+
+![Maltego](https://img.shields.io/badge/Maltego-2D0A4E?style=flat-square)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-2D0A4E?style=flat-square)
+![MISP](https://img.shields.io/badge/MISP-2D0A4E?style=flat-square)
+![OpenCTI](https://img.shields.io/badge/OpenCTI-2D0A4E?style=flat-square)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-2D0A4E?style=flat-square&logo=virustotal&logoColor=C026FF)
+![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-2D0A4E?style=flat-square)
+
+**Detecção & Regras**
+
+![YARA](https://img.shields.io/badge/YARA-2D0A4E?style=flat-square)
+![Sigma](https://img.shields.io/badge/Sigma-2D0A4E?style=flat-square)
+![Snort](https://img.shields.io/badge/Snort-2D0A4E?style=flat-square&logo=snort&logoColor=FF2ECB)
+![Wazuh](https://img.shields.io/badge/Wazuh-2D0A4E?style=flat-square)
+
+**Malware & Engenharia Reversa**
+
+![Ghidra](https://img.shields.io/badge/Ghidra-2D0A4E?style=flat-square)
+![FLOSS](https://img.shields.io/badge/FLOSS-2D0A4E?style=flat-square)
+![PEStudio](https://img.shields.io/badge/PEStudio-2D0A4E?style=flat-square)
+![Detect It Easy](https://img.shields.io/badge/Detect_It_Easy-2D0A4E?style=flat-square)
+![Any.Run](https://img.shields.io/badge/Any.Run-2D0A4E?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-2D0A4E?style=flat-square&logo=wireshark&logoColor=8B5CF6)
+
 **Ofensiva & Pentest**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-2D0A4E?style=flat-square&logo=kalilinux&logoColor=8B5CF6)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-2D0A4E?style=flat-square&logo=burpsuite&logoColor=C026FF)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-2D0A4E?style=flat-square&logo=owasp&logoColor=FF2ECB)
-![Nmap](https://img.shields.io/badge/Nmap-2D0A4E?style=flat-square&logo=nmap&logoColor=8B5CF6)
+![Metasploit](https://img.shields.io/badge/Metasploit-2D0A4E?style=flat-square&logo=metasploit&logoColor=FF2ECB)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-2D0A4E?style=flat-square&logo=owasp&logoColor=8B5CF6)
+![Nmap](https://img.shields.io/badge/Nmap-2D0A4E?style=flat-square)
 
 **Compliance & Scanning**
 
-![Nessus](https://img.shields.io/badge/Nessus-2D0A4E?style=flat-square&logo=tenable&logoColor=C026FF)
-![AWS](https://img.shields.io/badge/AWS-2D0A4E?style=flat-square&logo=amazonaws&logoColor=FF2ECB)
-![Azure](https://img.shields.io/badge/Azure-2D0A4E?style=flat-square&logo=microsoftazure&logoColor=8B5CF6)
+![Nessus](https://img.shields.io/badge/Nessus-2D0A4E?style=flat-square)
+![Outpost24](https://img.shields.io/badge/Outpost24-2D0A4E?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-2D0A4E?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-2D0A4E?style=flat-square)
 
 **Dev & Automação**
 
 ![Python](https://img.shields.io/badge/Python-2D0A4E?style=flat-square&logo=python&logoColor=C026FF)
-![Node.js](https://img.shields.io/badge/Node.js-2D0A4E?style=flat-square&logo=nodedotjs&logoColor=FF2ECB)
-![Unity](https://img.shields.io/badge/Unity-2D0A4E?style=flat-square&logo=unity&logoColor=8B5CF6)
+![Bash](https://img.shields.io/badge/Bash-2D0A4E?style=flat-square&logo=gnubash&logoColor=FF2ECB)
+![Node.js](https://img.shields.io/badge/Node.js-2D0A4E?style=flat-square&logo=nodedotjs&logoColor=8B5CF6)
+![Unity](https://img.shields.io/badge/Unity-2D0A4E?style=flat-square&logo=unity&logoColor=C026FF)
 
 </div>
 
@@ -66,8 +90,10 @@ Jr. Red Team Analyst na **AuditSafe**, empresa de segurança ofensiva e complian
 ### `certifications // education`
 
 - 🎓 **Defesa Cibernética** — FIAP (em andamento)
-- 📜 **CompTIA Security+**
 - 📜 **ISC2 Certified in Cybersecurity (CC)**
+- 📜 **CompTIA Security+** (em andamento)
+- 📜 **SYCP** — Solyd One (em andamento)
+- 📜 **Pentester na Era da IA** — IBSEC
 - 📜 **Red Hat RH124** — Red Hat System Administration I
 - 📜 **Red Hat RH134** — Red Hat System Administration II
 
@@ -75,16 +101,18 @@ Jr. Red Team Analyst na **AuditSafe**, empresa de segurança ofensiva e complian
 
 ### `projects // no momento`
 
+- 🧬 **[RabMapper](https://github.com/rabelojp41/RabMapper)** — framework de CTI em Python: extrai IOCs com FLOSS, reverte ofuscação, mapeia técnicas no MITRE ATT&CK e na Kill Chain, gera regras YARA validadas contra a amostra e exporta indicadores em STIX 2.1 e MISP. Tem resumo por IA local, conferido contra os achados.
+- 🦠 **Backdoor.Win32.Tyupkin** — relatório de CTI sobre malware de jackpotting em ATMs: análise estática e dinâmica, engenharia reversa no Ghidra, regras YARA, Sigma e Snort e TTPs mapeadas no ATT&CK
+- ⛓️ **IcedID → Cobalt Strike → Nokoyawa** — kill chain de ransomware mapeada no ATT&CK Navigator, com regras YARA pra classificação
+- 🔍 Pentests e avaliações PCI DSS v4.0.1 para múltiplos clientes na AuditSafe, com OSINT no reconhecimento
 - 🕹️ **OBL1VION** — RPG de conscientização em cibersegurança em Unity, estilo Pokémon FireRed, desenvolvido para a Leroy Merlin
-- 🔍 Avaliações PCI DSS v4.0.1 e testes de segmentação para múltiplos clientes na AuditSafe
-- 🧪 Testes web/API com Burp Suite e OWASP ZAP em ambientes de laboratório e produção
 
 ---
 
 <div align="center">
 
 ```
-[ recon ] — [ exploit ] — [ report ] — [ repeat ]
+[ osint ] — [ recon ] — [ exploit ] — [ emulate APT ] — [ map TTPs ] — [ report ]
 ```
 
 <sub>construído em ambiente isolado · aprendendo em público</sub>
