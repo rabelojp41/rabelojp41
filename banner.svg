@@ -73,8 +73,8 @@
   <text x="600" y="140" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="52" font-weight="700" fill="none" stroke="#c026ff" stroke-width="0.6" letter-spacing="4">JOÃO RABELO</text>
 
   <!-- subtitle -->
-  <text x="600" y="180" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#c4b5fd" letter-spacing="6">CYBER THREAT INTELLIGENCE // RED TEAM</text>
+  <text x="600" y="180" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="17" fill="#c4b5fd" letter-spacing="5">CYBER THREAT INTELLIGENCE // RED TEAM // PENTEST</text>
 
   <!-- divider glyphs -->
-  <text x="600" y="210" text-anchor="middle" font-family="Consolas, monospace" font-size="14" fill="#8b5cf6" opacity="0.8" letter-spacing="3">[ osint ] — [ recon ] — [ emulate ] — [ report ]</text>
+  <text x="600" y="210" text-anchor="middle" font-family="Consolas, monospace" font-size="14" fill="#8b5cf6" opacity="0.8" letter-spacing="3">[ osint ] — [ map TTPs ] — [ recon ] — [ exploit ] — [ report ]</text>
 </svg>
