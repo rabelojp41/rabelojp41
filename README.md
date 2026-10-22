@@ -34,7 +34,7 @@ Assistente Jr. de Red Team na **AuditSafe** e estudante de **Defesa Cibernética
 
 ### `experience.log`
 
-**🟣 Assistente Jr. de Red Team — AuditSafe** · `05/2026 → atual`
+**🟣 Assistente Jr. de Red Team — AuditSafe** · `01/2026 → atual`
 - Pentest interno e externo (PTES) em Windows e Linux: OSINT com Maltego, enumeração e exploração controlada com Nmap, Burp Suite e Metasploit
 - Testes web e de APIs com Burp Suite e OWASP ZAP, baseados no OWASP Top 10
 - Varreduras credenciadas com Nessus (SMB/WMI, SSH) e Outpost24; triagem de findings, separação de falsos positivos e priorização por CVSS
@@ -43,7 +43,7 @@ Assistente Jr. de Red Team na **AuditSafe** e estudante de **Defesa Cibernética
 - Apoio em investigação de incidentes e análise de malware
 - Automação em Python de relatórios, apresentações e certificados de treinamento
 
-**🟣 Estagiário de Segurança da Informação e Infraestrutura — Pulnet** · `2025 → 2026`
+**🟣 Estagiário de Segurança da Informação e Infraestrutura — Pulnet** · `06/2025 → 2026`
 - Apoio a pentests com reconhecimento e análise de vulnerabilidades (Nessus, Burp Suite, Nmap)
 - Engenharia reversa com Ghidra e FLOSS e estudo educacional de um RAT (técnicas de ataque e evasão)
 - Implantação por iniciativa própria do Wazuh (SIEM/XDR) pra enxergar os ataques pelo lado do defensor
