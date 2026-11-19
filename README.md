@@ -14,12 +14,12 @@ Ooooi 👋 eu sou o **Rabelo**, da área de cyber! Curto muito **JJK** e **Hunte
 
 ### `whoami`
 
-Assistente Jr. de Red Team na **AuditSafe** e estudante de **Defesa Cibernética** na FIAP. Trabalho na interseção entre **Cyber Threat Intelligence**, **Red Team** e **Pentest**: estudo quem ataca e como (TTPs, malware, campanhas) e uso isso pra atacar melhor, do reconhecimento OSINT ao relatório. No dia a dia também conduzo avaliações **PCI DSS v4.0.1**.
+Analista de Segurança Pleno (Pentest) na **Stefanini Cyber** e tecnólogo em **Defesa Cibernética** pela FIAP. Trabalho na interseção entre **Cyber Threat Intelligence**, **Red Team** e **Pentest**: estudo quem ataca e como (TTPs, malware, campanhas) e uso isso pra atacar melhor, do reconhecimento OSINT ao relatório. Hoje conduzo pentests web Gray Box e Black Box pra clientes; antes, na AuditSafe, fazia pentest interno/externo e avaliações **PCI DSS v4.0.1**.
 
 ```
-> foco atual:   Cyber Threat Intelligence · Red Team · Pentest (PTES)
-> estudando:    análise de malware, threat research, emulação de adversários, Active Directory
-> stack diária: Maltego · MITRE ATT&CK · Ghidra · FLOSS · YARA · Burp Suite · Nmap · Nessus
+> foco atual:   Pentest web · Red Team · Cyber Threat Intelligence
+> estudando:    pentest mobile (Android), Active Directory, análise de malware, emulação de adversários
+> stack diária: Burp Suite Pro · Nmap · MITRE ATT&CK · Maltego · Ghidra · FLOSS · YARA
 ```
 
 <div align="center">
@@ -34,7 +34,12 @@ Assistente Jr. de Red Team na **AuditSafe** e estudante de **Defesa Cibernética
 
 ### `experience.log`
 
-**🟣 Assistente Jr. de Red Team — AuditSafe** · `01/2026 → atual`
+**🟣 Analista de Segurança Pleno (Pentest) — Stefanini Cyber** · `11/2026 → atual`
+- Pentests web Gray Box e Black Box pra clientes da consultoria, do reconhecimento ao reteste, incluindo aplicações com SSO (SAML)
+- Testes autenticados e não autenticados com Burp Suite Pro: contorno de WAF por origem exposta, ausência de limite de tentativas no login, enumeração de usuários, cookies inseguros
+- Relatórios Técnico e Executivo seguindo OSSTMM, PTES, OWASP e NIST SP 800-115, com CVSS, OWASP Risk Rating e mapeamento MITRE ATT&CK
+
+**🟣 Assistente Jr. de Red Team — AuditSafe** · `01/2026 → 11/2026`
 - Pentest interno e externo (PTES) em Windows e Linux: OSINT com Maltego, enumeração e exploração controlada com Nmap, Burp Suite e Metasploit
 - Testes web e de APIs com Burp Suite e OWASP ZAP, baseados no OWASP Top 10
 - Varreduras credenciadas com Nessus (SMB/WMI, SSH) e Outpost24; triagem de findings, separação de falsos positivos e priorização por CVSS
@@ -42,11 +47,6 @@ Assistente Jr. de Red Team na **AuditSafe** e estudante de **Defesa Cibernética
 - PCI DSS v4.0.1: segmentation testing entre o CDE e demais zonas em AWS (Security Groups, NACLs) e Azure (NSGs), com parecer PASS/FAIL/OBS
 - Apoio em investigação de incidentes e análise de malware
 - Automação em Python de relatórios, apresentações e certificados de treinamento
-
-**🟣 Estagiário de Segurança da Informação e Infraestrutura — Pulnet** · `06/2025 → 2026`
-- Apoio a pentests com reconhecimento e análise de vulnerabilidades (Nessus, Burp Suite, Nmap)
-- Engenharia reversa com Ghidra e FLOSS e estudo educacional de um RAT (técnicas de ataque e evasão)
-- Implantação por iniciativa própria do Wazuh (SIEM/XDR) pra enxergar os ataques pelo lado do defensor
 
 ---
 
@@ -67,6 +67,8 @@ Assistente Jr. de Red Team na **AuditSafe** e estudante de **Defesa Cibernética
 - 🪜 **Privesc Windows** — WinPEAS, PowerUp, SharpUp e PrintSpoofer
 - 🌐 **Web exploitation** — SQL Injection, Command Injection e SSTI em laboratório
 - 📚 **Base de conhecimento de vulnerabilidades** (Notion + GitHub) com scripts Python de validação: TLS 1.0/1.1, BEAST, CORS, clickjacking, flags de cookie, open redirect, source maps, cadeia SSL e bypass por porta de origem TCP/UDP
+- 📱 **Pentest mobile (Android)** — lab próprio com emulador Android 13 com root integrado ao Kali via ADB; análise estática de APKs com jadx e Apktool (manifest, componentes exportados, detecção de root/anti-debug); desafios OWASP MASTG UnCrackable e Hacker101 em andamento
+- 🥈 **[CTF FIAP NEXT 2026](https://github.com/rabelojp41/NextFiap-CTF)** — 2º lugar com a equipe; scripts e guia publicados
 - 🎮 TryHackMe e Hack The Box (Cap, Facts)
 
 ### `projects // outros`
@@ -124,6 +126,13 @@ Assistente Jr. de Red Team na **AuditSafe** e estudante de **Defesa Cibernética
 ![WinPEAS](https://img.shields.io/badge/WinPEAS-2D0A4E?style=flat-square)
 ![GTFOBins](https://img.shields.io/badge/GTFOBins-2D0A4E?style=flat-square)
 
+**Mobile (Android)**
+
+![jadx](https://img.shields.io/badge/jadx-2D0A4E?style=flat-square)
+![Apktool](https://img.shields.io/badge/Apktool-2D0A4E?style=flat-square)
+![ADB](https://img.shields.io/badge/ADB-2D0A4E?style=flat-square&logo=android&logoColor=8B5CF6)
+![OWASP MASTG](https://img.shields.io/badge/OWASP_MASTG-2D0A4E?style=flat-square&logo=owasp&logoColor=C026FF)
+
 **Scanning & Compliance**
 
 ![Nessus](https://img.shields.io/badge/Nessus-2D0A4E?style=flat-square)
@@ -153,14 +162,14 @@ Assistente Jr. de Red Team na **AuditSafe** e estudante de **Defesa Cibernética
 
 ### `certifications // education`
 
-- 🎓 **Tecnólogo em Defesa Cibernética** — FIAP (previsão 2026)
+- 🎓 **Tecnólogo em Defesa Cibernética** — FIAP (concluído em 2026)
+- 📜 **CompTIA Security+ (SY0-701)** (nov/2026)
 - 📜 **ISC2 Certified in Cybersecurity (CC)**
 - 📜 **FIAP Certified Penetration Testing Professional** (jun/2026)
 - 📜 **FIAP Certified Information Security Officer** (dez/2025)
 - 📜 **Pentester na Era da IA** — IBSEC
 - 📜 **Red Hat RH124 / RH134** — System Administration I e II
 - 📜 **Inglês C1** — EF SET
-- ⏳ **CompTIA Security+** — prova agendada pra 10/12/2026
 - ⏳ **SYCP** — Solyd One (em andamento)
 
 ---
