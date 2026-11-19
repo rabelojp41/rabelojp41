@@ -17,8 +17,8 @@ Ooooi 👋 eu sou o **Rabelo**, da área de cyber! Curto muito **JJK** e **Hunte
 Analista de Segurança Pleno (Pentest) na **Stefanini Cyber** e tecnólogo em **Defesa Cibernética** pela FIAP. Trabalho na interseção entre **Cyber Threat Intelligence**, **Red Team** e **Pentest**: estudo quem ataca e como (TTPs, malware, campanhas) e uso isso pra atacar melhor, do reconhecimento OSINT ao relatório. Hoje conduzo pentests web Gray Box e Black Box pra clientes; antes, na AuditSafe, fazia pentest interno/externo e avaliações **PCI DSS v4.0.1**.
 
 ```
-> foco atual:   Pentest web · Red Team · Cyber Threat Intelligence
-> estudando:    pentest mobile (Android), Active Directory, análise de malware, emulação de adversários
+> foco atual:   Pentest Web · Red Team · Cyber Threat Intelligence · Active Directory
+> estudando:    pentest mobile (Android), pentest wireless (Wi-Fi), análise de malware, emulação de adversários
 > stack diária: Burp Suite Pro · Nmap · MITRE ATT&CK · Maltego · Ghidra · FLOSS · YARA
 ```
 
