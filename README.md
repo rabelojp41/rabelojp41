@@ -14,10 +14,10 @@ Ooooi 👋 eu sou o **Rabelo**, da área de cyber! Curto muito **JJK** e **Hunte
 
 ### `whoami`
 
-Analista de Segurança Pleno (Pentest) na **Stefanini Cyber** e tecnólogo em **Defesa Cibernética** pela FIAP. Trabalho na interseção entre **Cyber Threat Intelligence**, **Red Team** e **Pentest**: estudo quem ataca e como (TTPs, malware, campanhas) e uso isso pra atacar melhor, do reconhecimento OSINT ao relatório. Hoje conduzo pentests web Gray Box e Black Box pra clientes; antes, na AuditSafe, fazia pentest interno/externo e avaliações **PCI DSS v4.0.1**.
+Analista de Segurança Pleno (Pentest) na **Stefanini Cyber** e tecnólogo em **Defesa Cibernética** pela FIAP. Trabalho na interseção entre **Cyber Threat Intelligence**, **Red Team** e **Pentest**: estudo quem ataca e como (TTPs, malware, campanhas) e uso isso pra atacar melhor, do reconhecimento OSINT ao relatório. Hoje conduzo pentests Black, Gray e White Box em aplicações web, APIs e infraestrutura pra clientes; antes, na AuditSafe, fazia pentest interno/externo e avaliações **PCI DSS v4.0.1**.
 
 ```
-> foco atual:   Pentest Web · Red Team · Cyber Threat Intelligence · Active Directory
+> foco atual:   Pentest Web · API · Infra · Red Team · Cyber Threat Intelligence · Active Directory
 > estudando:    pentest mobile (Android), pentest wireless (Wi-Fi), análise de malware, emulação de adversários
 > stack diária: Burp Suite Pro · Nmap · MITRE ATT&CK · Maltego · Ghidra · FLOSS · YARA
 ```
@@ -35,8 +35,8 @@ Analista de Segurança Pleno (Pentest) na **Stefanini Cyber** e tecnólogo em **
 ### `experience.log`
 
 **🟣 Analista de Segurança Pleno (Pentest) — Stefanini Cyber** · `11/2026 → atual`
-- Pentests web Gray Box e Black Box pra clientes da consultoria, do reconhecimento ao reteste, incluindo aplicações com SSO (SAML)
-- Testes autenticados e não autenticados com Burp Suite Pro: contorno de WAF por origem exposta, ausência de limite de tentativas no login, enumeração de usuários, cookies inseguros
+- Pentests Black Box, Gray Box e White Box pra clientes da consultoria, cobrindo aplicações web, APIs e infraestrutura (interna e externa), do reconhecimento ao reteste
+- Testes autenticados e não autenticados com Burp Suite Pro, incluindo aplicações com SSO (SAML): contorno de WAF por origem exposta, ausência de limite de tentativas no login, enumeração de usuários, cookies inseguros
 - Relatórios Técnico e Executivo seguindo OSSTMM, PTES, OWASP e NIST SP 800-115, com CVSS, OWASP Risk Rating e mapeamento MITRE ATT&CK
 
 **🟣 Assistente Jr. de Red Team — AuditSafe** · `01/2026 → 11/2026`
